@@ -31,6 +31,6 @@
 </div>
 
   
-  ![snake gif](https://github.com/Fefeinacio/Fefeinacio/blob/output/github-contribution-grid-snake.svg)
+
 
 
