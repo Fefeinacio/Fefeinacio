@@ -2,7 +2,6 @@
 
 - 🔭 Hoje meu foco é trabalhar com frot-end 
 - 🌱 Sou universitário na Faculdade UNIARA em Sistemas de informação
-- 📫 Contate-me no Email: fefe_sousa-inacio@outlook.com
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
