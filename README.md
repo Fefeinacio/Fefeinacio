@@ -5,10 +5,14 @@
 - 📫 Contate-me no Email: fefe_sousa-inacio@outlook.com
 - 😄 Pronouns: Ele/Dele
 
-<div>
-<a href="https://github.com/Fefeinacio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fefeinacio&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/_>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fefeinacio&layout=compact&langs_count=16theme=synthwave"/_>
+<div align="center">
+  <div align="center">
+  <a href="https://github.com/formandodev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=formandodev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    </div>
+</br>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formandodev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   ##
